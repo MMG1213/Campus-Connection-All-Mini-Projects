@@ -1,6 +1,6 @@
 import java.util.*;
 
-class FriendSuggestion {
+class SocialFriendSuggestion {
     static Map<String, Set<String>> graph = new HashMap<>();
 
     static void addUser(String u) {
